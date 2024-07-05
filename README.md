@@ -16,6 +16,12 @@ You can click the Preview link to take a look at your changes.
 
 I'm a passionate software developer with expertise in AI and Robotics. My journey in technology has been fueled by my strong visual-spatial skills, which rank in the top 1% of the population, and my love for logical reasoning. I am currently pursuing a master's degree in Computer Science with a keen interest in AI and Robotics, aiming to specialize in Spatial AI, Neuro-Robotics, Autonomous Systems, and Human-Robot Interaction.
 
+#### 🛠️ Skills and Tools
+- **Programming Languages**: Python, JavaScript, HTML5, CSS3, C++, Java
+- **Databases**: MySQL
+- **Platforms**: Linux, Azure
+- **Frameworks and Libraries**: Flask, OpenAI
+
 #### 🌱 Current Interests
 - **Artificial Intelligence**: Building intelligent systems that can learn and adapt.
 - **Robotics**: Developing autonomous systems and exploring human-robot interaction.
@@ -28,12 +34,14 @@ I'm a passionate software developer with expertise in AI and Robotics. My journe
 - **M.S. in Computer Science** (In Progress)
 
 #### 💼 Certifications
-- **Azure AI Engineer Associate Certification**
+- **TO DO**
 
 #### 🔭 Projects
 - **Azure AI Example Projects**: Showcasing basic functions of different Microsoft Azure AI functionalities.
 - **Computer Vision Solutions with Azure AI Vision**: Capabilities including image analysis, custom image classification, face detection, text recognition, and video analysis.
-- **[Android App Name]**: An Android app involving server setup on Linux, API development with Flask and Python, integration with OpenAI's ChatGPT, and MySQL database.
+- **[Android App Name]**: An iOS & Android app involving server setup on Linux, API development with Flask and Python, integration with OpenAI's ChatGPT, and MySQL database.
+- **Marquuen Plus from DFRobot**: Working on innovative robotics projects.
+- **Microsoft Learn**: Currently on level 10 with over 222,000 XP needed to reach level 11.
 
 #### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
@@ -43,8 +51,6 @@ I'm a passionate software developer with expertise in AI and Robotics. My journe
 #### 🛠️ Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
@@ -74,34 +80,6 @@ I love solving puzzles and working on challenging projects that require innovati
 ---
 
 *This README was generated with ❤️ by [Your Name]*
-
-
-
-
-
-
-
-
-
-
-#### 🔭 Projects
-- **Azure AI Example Projects**: Showcasing basic functions of different Microsoft Azure AI functionalities.
-- **Computer Vision Solutions with Azure AI Vision**: Capabilities including image analysis, custom image classification, face detection, text recognition, and video analysis.
-- **[Android App Name]**: An Android app involving server setup on Linux, API development with Flask and Python, integration with OpenAI's ChatGPT, and MySQL database.
-- **Marquuen Plus from DFRobot**: Working on innovative robotics projects.
-- **Microsoft Learn**: Currently on level 10 with over 222,000 XP needed to reach level 11.
-
-#### 🛠️ Skills and Tools
-- **Programming Languages**: Python, JavaScript, HTML5, CSS3, C++, Java
-- **Databases**: MySQL
-- **Platforms**: Linux, Azure
-- **Frameworks and Libraries**: Flask, OpenAI
-
-#### 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://www.your-website.com)
-
 
 ---
 
